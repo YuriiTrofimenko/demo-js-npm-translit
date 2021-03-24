@@ -1,0 +1,14 @@
+{
+  "name": "org.tyaa.demo.npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YuriiTrofimenko",
+  "license": "ISC",
+  "dependencies": {
+    "translit": "^0.1.0"
+  }
+}
